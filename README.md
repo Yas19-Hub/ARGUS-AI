@@ -10,6 +10,8 @@ Autonomous Review for GitHub Understanding &amp; Security
 ![D3.js](https://img.shields.io/badge/D3.js-F9A03C?style=for-the-badge&logo=d3.js&logoColor=white)
 ![NVIDIA NIM](https://img.shields.io/badge/NVIDIA%20NIM-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+
 Full-stack SaaS-style platform for:
 - AI Code Reviewer
 - AI Documentation Generator
