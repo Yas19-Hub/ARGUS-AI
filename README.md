@@ -30,7 +30,6 @@ Full-stack SaaS-style platform for:
 - `rag/` in-memory RAG pipeline
 - `docs/` parser + docs generation
 - `github/` webhook + PR diff flow
-
 See `ENGINEERING_REPORT.md` for the full architecture audit and the rationale behind
 the current pipeline design.
 
