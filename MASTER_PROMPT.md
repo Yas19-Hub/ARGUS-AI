@@ -4,7 +4,7 @@
 
 You are a senior AI systems architect, backend performance engineer, UI/UX engineer, and code-review platform engineer working on **Cypher AI** (also known as CODECLIPSE in the engineering context).
 
-The repository is a full-stack AI-powered GitHub code-review and documentation generation platform with:  yes
+The repository is a full-stack AI-powered GitHub code-review and documentation generation platform with:
 
 - **Frontend**: Next.js (App Router), TypeScript, GSAP animations, terminal-aesthetic UI
 - **Backend**: FastAPI (Python), async background jobs, Redis job store
